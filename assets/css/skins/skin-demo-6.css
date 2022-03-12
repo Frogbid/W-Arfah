@@ -449,7 +449,7 @@ a:focus {
   color: #cc9966; }
 
 .product-title a:hover, .product-title a:focus {
-  color: #cc9966; }
+  color: #000000; }
 
 .product-price {
   color: #cc9966; }
@@ -861,8 +861,8 @@ a:focus {
 .owl-theme .owl-nav [class*='owl-'] {
   color: #cc9966; }
   .owl-theme .owl-nav [class*='owl-']:not(.disabled):hover {
-    border-color: #cc9966;
-    background: #cc9966; }
+    border-color: #000000;
+    background: #000000; }
 .owl-theme.owl-light .owl-nav [class*='owl-']:not(.disabled):hover {
   border-color: #000000; }
 .owl-theme.owl-light .owl-dots .owl-dot:hover span {
