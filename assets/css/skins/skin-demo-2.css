@@ -355,8 +355,8 @@ a:focus {
   box-shadow: none; }
 .btn-outline-white-4:hover, .btn-outline-white-4:focus, .btn-outline-white-4.focus, .btn-outline-white-4:not(:disabled):not(.disabled):active, .btn-outline-white-4:not(:disabled):not(.disabled).active, .show > .btn-outline-white-4.dropdown-toggle {
   color: #000000;
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #F15F24;
+  border-color: #F15F24;
   box-shadow: none; }
 .btn-outline-white-4.disabled, .btn-outline-white-4:disabled {
   color: #fff;
@@ -861,8 +861,8 @@ a:focus {
 .owl-theme .owl-nav [class*='owl-'] {
   color: #cc9966; }
 .owl-theme .owl-nav [class*='owl-']:not(.disabled):hover {
-  border-color: #000000;
-  background: #000000; }
+  border-color: #F15F24;
+  background: #F15F24; }
 .owl-theme.owl-light .owl-nav [class*='owl-']:not(.disabled):hover {
   border-color: #000000; }
 .owl-theme.owl-light .owl-dots .owl-dot:hover span {
